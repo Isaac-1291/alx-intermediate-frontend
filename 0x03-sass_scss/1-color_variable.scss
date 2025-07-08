@@ -1,0 +1,10 @@
+// SASS file that assigns text color #3D3D3D to body and p tags using a variable
+$text-color: #3D3D3D;
+
+body {
+  color: $text-color;
+}
+
+p {
+  color: $text-color;
+}
